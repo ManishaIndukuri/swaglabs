@@ -3,4 +3,4 @@ Execute below commands one by one in project level to execute features and gener
    * npm run wdio
    * npm run generate_allure_report
 
-   Note: We can observe screenshot at last step(failed or passed) in report.
+   Note: We can observe screenshot at every step(failed or passed) in report.
